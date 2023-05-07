@@ -1,0 +1,53 @@
+p {
+    font-family: 'Martel', serif;
+}
+
+h3, h2 {
+    font-family: 'Sarala', serif;
+}
+
+.my_bold {
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Chivo', serif;
+}
+
+.light_blue{
+    background-color: #B2DCD7;
+}
+
+.blue{
+    background-color: #859DDC;
+}
+
+.dark{
+    background-color: #222222;
+}
+
+.green{
+    background-color: #39B7A8;
+}
+
+.cream{
+    background-color: #EEEEEE;
+}
+
+.white{
+    background-color: white;
+}
+
+.logo{
+    width: 180px;
+    height: 165px;
+}
+
+.content{
+    width: 1170px;
+}
+
+a.card-link {
+    text-decoration: none;
+    color: inherit;
+  }
