@@ -39,12 +39,17 @@ h1 {
 }
 
 .logo{
-    width: 180px;
-    height: 165px;
+    width: 10vw;
+    height: 10vw;
+}
+
+.footer-logo{
+    width: 12vw;
+    height: 10vw;
 }
 
 .content{
-    width: 60vw;
+    width: 65vw;
 }
 
 a.card-link {
